@@ -26,6 +26,11 @@ Over 100 powerful ai prompt framework designed to structure and enhance your con
 **S:** Specifics - Focus on key details.  
 **T:** Task - Outline the action steps.
 
+Example Prompt: "My goal is to plan a weekend trip (Goal). I'm
+looking for information about popular hiking trails near my location
+(Information). Please suggest trails within a 2-hour drive, suitable for
+beginners (Specifics), and provide trail difficulty ratings (Task).
+
 [Back to Table of Frameworks](#table-of-frameworks)
 
 ---
