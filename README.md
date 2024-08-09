@@ -6,13 +6,30 @@ This document outlines 103 strategic frameworks designed to improve conversation
 
 ## Table of Frameworks
 
-1. [GIST](#gist)
-2. [DRC](#drc)
-3. [TAP](#tap)
-4. [SWOT](#swot)
-5. [SMART](#smart)
+| No. | Framework Name | Link |
+| --- | -------------- | ---- |
+| 1   | GIST           | [GIST](#gist) |
+| 2   | DRC            | [DRC](#drc) |
+| 3   | TAP            | [TAP](#tap) |
+| 4   | SWOT           | [SWOT](#swot) |
+| 5   | SMART          | [SMART](#smart) |
+| 6   | AIDA           | [AIDA](#aida) |
+| 7   | PEST           | [PEST](#pest) |
+| 8   | RACI           | [RACI](#raci) |
+| 9   | Minto Pyramid  | [Minto Pyramid](#minto-pyramid) |
+| 10  | Fishbone Diagram | [Fishbone Diagram](#fishbone-diagram) |
+| 11  | Five Whys      | [Five Whys](#five-whys) |
+| 12  | Mind Map       | [Mind Map](#mind-map) |
+| 13  | Balanced Scorecard | [Balanced Scorecard](#balanced-scorecard) |
+| 14  | BCG Matrix     | [BCG Matrix](#bcg-matrix) |
+| 15  | Porter’s Five Forces | [Porter’s Five Forces](#porters-five-forces) |
+| 16  | Ansoff Matrix  | [Ansoff Matrix](#ansoff-matrix) |
+| 17  | McKinsey 7S Framework | [McKinsey 7S Framework](#mckinsey-7s-framework) |
+| 18  | Value Chain Analysis | [Value Chain Analysis](#value-chain-analysis) |
+| 19  | Customer Journey Map | [Customer Journey Map](#customer-journey-map) |
+| 20  | Business Model Canvas | [Business Model Canvas](#business-model-canvas) |
 ...
-103. [Last Framework](#last-framework)
+| 103 | Final Framework | [Final Framework](#final-framework) |
 
 ---
 
@@ -20,57 +37,63 @@ This document outlines 103 strategic frameworks designed to improve conversation
 
 ### GIST
 
-**Goal:** Define the purpose.
+**G:** Goal - Define the purpose.  
+**I:** Information - Gather relevant data.  
+**S:** Specifics - Focus on key details.  
+**T:** Task - Outline the action steps.
 
-**Information:** Gather relevant data.
+[Back to Table of Frameworks](#table-of-frameworks)
 
-**Specifics:** Focus on the key points.
-
-**Task:** Outline the action plan.
+---
 
 ### DRC
 
-**Describe:** Provide a clear description.
+**D:** Describe - Provide a clear description.  
+**R:** Recommend - Offer suggestions.  
+**C:** Compare - Analyze different options.
 
-**Recommend:** Offer suggestions.
+[Back to Table of Frameworks](#table-of-frameworks)
 
-**Compare:** Analyze different options.
+---
 
 ### TAP
 
-**Topic:** Identify the main subject.
+**T:** Topic - Identify the main subject.  
+**A:** Advantages - Highlight benefits.  
+**P:** Perspective - Consider different viewpoints.
 
-**Advantages:** Highlight benefits.
+[Back to Table of Frameworks](#table-of-frameworks)
 
-**Perspective:** Consider different viewpoints.
+---
 
 ### SWOT
 
-**Strengths:** Identify internal strengths.
+**S:** Strengths - Identify internal strengths.  
+**W:** Weaknesses - Recognize internal weaknesses.  
+**O:** Opportunities - Explore external opportunities.  
+**T:** Threats - Assess external threats.
 
-**Weaknesses:** Recognize internal weaknesses.
+[Back to Table of Frameworks](#table-of-frameworks)
 
-**Opportunities:** Explore external opportunities.
-
-**Threats:** Assess external threats.
+---
 
 ### SMART
 
-**Specific:** Define clear and precise objectives.
+**S:** Specific - Define clear and precise objectives.  
+**M:** Measurable - Ensure progress can be tracked.  
+**A:** Achievable - Set realistic goals.  
+**R:** Relevant - Align goals with broader objectives.  
+**T:** Time-bound - Set a clear timeline for completion.
 
-**Measurable:** Ensure that progress can be tracked.
+[Back to Table of Frameworks](#table-of-frameworks)
 
-**Achievable:** Set realistic goals.
+---
 
-**Relevant:** Align goals with broader objectives.
+### Final Framework
 
-**Time-bound:** Set a clear timeline for completion.
+Details of the final framework.
 
-...
-
-### Last Framework
-
-**Components:** Details of the final framework.
+[Back to Table of Frameworks](#table-of-frameworks)
 
 ---
 
