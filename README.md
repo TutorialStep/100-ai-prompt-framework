@@ -1,4 +1,5 @@
 # Strategic AI Prompt Frameworks
+<img src="https://github.com/TutorialStep/100-ai-prompt-framework/blob/images/llm-platform.png">
 
 ## Introduction
 
