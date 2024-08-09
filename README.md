@@ -1,4 +1,4 @@
-# Strategic Frameworks
+# Strategic AI Prompt Frameworks
 
 ## Introduction
 
