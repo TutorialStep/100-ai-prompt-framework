@@ -13,23 +13,7 @@ Over 100 powerful ai prompt framework designed to structure and enhance your con
 | 3   | TAP            | [TAP](#tap) |
 | 4   | SWOT           | [SWOT](#swot) |
 | 5   | SMART          | [SMART](#smart) |
-| 6   | AIDA           | [AIDA](#aida) |
-| 7   | PEST           | [PEST](#pest) |
-| 8   | RACI           | [RACI](#raci) |
-| 9   | Minto Pyramid  | [Minto Pyramid](#minto-pyramid) |
-| 10  | Fishbone Diagram | [Fishbone Diagram](#fishbone-diagram) |
-| 11  | Five Whys      | [Five Whys](#five-whys) |
-| 12  | Mind Map       | [Mind Map](#mind-map) |
-| 13  | Balanced Scorecard | [Balanced Scorecard](#balanced-scorecard) |
-| 14  | BCG Matrix     | [BCG Matrix](#bcg-matrix) |
-| 15  | Porter’s Five Forces | [Porter’s Five Forces](#porters-five-forces) |
-| 16  | Ansoff Matrix  | [Ansoff Matrix](#ansoff-matrix) |
-| 17  | McKinsey 7S Framework | [McKinsey 7S Framework](#mckinsey-7s-framework) |
-| 18  | Value Chain Analysis | [Value Chain Analysis](#value-chain-analysis) |
-| 19  | Customer Journey Map | [Customer Journey Map](#customer-journey-map) |
-| 20  | Business Model Canvas | [Business Model Canvas](#business-model-canvas) |
-...
-| 103 | Final Framework | [Final Framework](#final-framework) |
+
 
 ---
 
