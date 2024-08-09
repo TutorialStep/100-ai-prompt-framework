@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document outlines 103 strategic frameworks designed to improve conversations, problem-solving, decision-making, and planning.
+Over 100 powerful ai prompt framework designed to structure and enhance your conversations, sharpen your problem-solving skills, enhance decision-making, and streamline your planning in any domain. These frameworks serve as strategic blueprints, guiding you through a myriad of topics, ensuring you explore all critical angles, spark new insights, and make well-informed choices.
 
 ## Table of Frameworks
 
