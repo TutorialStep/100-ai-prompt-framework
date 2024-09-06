@@ -14,8 +14,9 @@ Over 100 powerful ai prompt framework designed to structure and enhance your con
 | 3   | TAP            | [TAP](#tap) |
 | 4   | SQA            | [SWOT](#sqa) |
 | 5   | RER            | [SMART](#rer) |
-| 6   | HYP            | [3C](#hyp) |
-| 7   | 3C             | [SMART](#3c) |
+| 6   | HYP            | [HYP](#hyp) |
+| 7   | 3C             | [3C](#3c) |
+| 8   | FPR             | [FPR](#fpr) |
 
 
 
