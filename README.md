@@ -12,8 +12,8 @@ Over 100 powerful ai prompt framework designed to structure and enhance your con
 | 1   | GIST           | [GIST](#gist) |
 | 2   | DRC            | [DRC](#drc) |
 | 3   | TAP            | [TAP](#tap) |
-| 4   | SQA            | [SWOT](#sqa) |
-| 5   | RER            | [SMART](#rer) |
+| 4   | SQA            | [SQA](#sqa) |
+| 5   | RER            | [RER](#rer) |
 | 6   | HYP            | [HYP](#hyp) |
 | 7   | 3C             | [3C](#3c) |
 | 8   | FPR             | [FPR](#fpr) |
