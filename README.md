@@ -17,6 +17,9 @@ Over 100 powerful ai prompt framework designed to structure and enhance your con
 | 6   | HYP            | [HYP](#hyp) |
 | 7   | 3C             | [3C](#3c) |
 | 8   | FPT             | [FPT](#fpt) |
+| 9   | 4S             | [4S](#4s) |
+| 10  | 5E            | [5E](#5e) |
+
 
 
 
