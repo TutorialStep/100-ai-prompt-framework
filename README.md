@@ -14,6 +14,7 @@ Over 100 powerful ai prompt framework designed to structure and enhance your con
 | 3   | TAP            | [TAP](#tap) |
 | 4   | SWOT           | [SWOT](#swot) |
 | 5   | SMART          | [SMART](#smart) |
+| 6   | 3C             | [3C](#3c) |
 
 
 ---
