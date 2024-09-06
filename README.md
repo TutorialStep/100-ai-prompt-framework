@@ -16,7 +16,7 @@ Over 100 powerful ai prompt framework designed to structure and enhance your con
 | 5   | RER            | [RER](#rer) |
 | 6   | HYP            | [HYP](#hyp) |
 | 7   | 3C             | [3C](#3c) |
-| 8   | FPR             | [FPR](#fpr) |
+| 8   | FPT             | [FPT](#fpt) |
 
 
 
