@@ -19,6 +19,16 @@ Over 100 powerful ai prompt framework designed to structure and enhance your con
 | 8   | FPT             | [FPT](#fpt) |
 | 9   | 4S             | [4S](#4s) |
 | 10  | 5E            | [5E](#5e) |
+| 11  | SCEP            | [SCEP](#scep) |
+| 12  | 3I            | [3I](#3i) |
+| 13  | 7P            | [7P](#7p) |
+| 14  | 4R            | [4R](#4r) |
+| 15  | LURR            | [LURR](#lurr) |
+| 16  | 4D            | [4D](#4d) |
+| 17  | C4            | [C4](#c4) |
+| 18  | 6R            | [6R](#6r) |
+| 19  | SWOT            | [SWOT](#swot) |
+| 20  | 5W1H            | [5W1H](#5w1h) |
 
 
 
