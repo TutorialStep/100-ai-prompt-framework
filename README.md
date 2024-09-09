@@ -29,11 +29,47 @@ Over 100 powerful ai prompt framework designed to structure and enhance your con
 | 18  | 6R            | [6R](#6r) |
 | 19  | SWOT            | [SWOT](#swot) |
 | 20  | 5W1H            | [5W1H](#5w1h) |
+| 21  | PDCA            | [PDCA](#pdca) |
+| 22  | 4P            | [4P](#4p) |
+| 23  | SMART            | [SMART](#smart) |
+| 24  | RACI            | [RACI](#raci) |
+| 25  | 5WHYS            | [5WHYS](#5whys) |
+| 26  | PESTEL            | [PESTEL](#pestel) |
+| 27  | THINKING HATS            | [THINKING HATS](#th) |
+| 28  | CAUSE AND EFFECT (FISHBONE) DIAGRAM        | [CAUSE AND EFFECT](#ce) |
+| 29  | 3-2-1            | [3-2-1](#3-2-1) |
+| 30  | 5C            | [5C](#5c) |
+| 31  | FMEA            | [FMEA](#fmea) |
+| 32  | OODA           | [OODA](#ooda) |
+| 33  | 3 R's            | [3 R's](#3 R's) |
+| 34  | AIDA            | [AIDA](#aida) |
+| 35  | STP            | [STP](#stp) |
+| 36  | RACE            | [RACE](#race) |
+| 37  | 3C's            | [3C's](#3C's) |
+| 38  | PESO            | [PESO](#peso) |
+| 39  | CJM            | [CJM](#cjm) |
+| 40  | 7Ps            | [7PS](#7ps) |
+
+
 
 
 
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Framework Explanations
 
