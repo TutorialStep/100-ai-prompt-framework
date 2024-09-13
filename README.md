@@ -49,6 +49,69 @@ Over 100 powerful ai prompt framework designed to structure and enhance your con
 | 38  | PESO            | [PESO](#peso) |
 | 39  | CJM            | [CJM](#cjm) |
 | 40  | 7Ps            | [7PS](#7ps) |
+| 41  | BLUE OCEAN STRATEGY            | [BOS](#bos) |
+| 42  | BRANDING PYRAMID            | [BP](#bp) |
+| 43  | MARKETING MIX 2.0            | [MM2.0](#mm2.0) |
+| 44  | MCKINSEY 7S FRAMEWORK            | [M7F](#m7f) |
+| 45  | BCG GROWTH SHARE MATRIX            | [BCG](#bcg) |
+| 46  | ANSOFF MATRIX            | [AM](#am) |
+| 47  | VALUE CHAIN ANALYSIS            | [VCA](#vca) |
+| 48  | TOWS MATRIX            | [TM](#tm) |
+| 49  | CSP            | [CSP](#csp) |
+| 50  | PPS            | [PPS](#pps) |
+| 51  | QRB            | [QRB](#qrb) |
+| 52  | CEP            | [CEP](#cep) |
+| 53  | GQE            | [GQE](#gqe) |
+| 54  | PSC            | [PSC](#psc) |
+| 55  | ART            | [ART](#ART) |
+| 56  | CORE            | [CORE](#core) |
+| 57  | FRAME            | [FRAME](#frame) |\
+| 58  | GROW            | [GROW](#grow) |
+| 59  | PIVOT            | [PIVOT](#pivot) |
+| 60  | SPARK            | [SPARK](#spark) |
+| 61  | CHART            | [CHART](#chart) |
+| 62  | DIALOG            | [DIALOG](#dialog) |
+| 63  | POLISH            | [POLISH](#polish) |
+| 64  | CARE            | [CARE](#care) |
+| 65  | MAP            | [MAP](#map) |
+| 66  | CART            | [CART](#cart) |
+| 67  | DECIDE            | [DECIDE](#decide) |
+| 68  | RESULTS            | [RESULTS](#results) |
+| 69  | AWARE            | [AWARE](#aware) |
+| 70  | SIFT            | [SIFT](#sift) |
+| 71  | FLARE            | [FLARE](#flare) |
+| 72  | BEACON            | [BEACON](#beacon) |
+| 73  | FIVE            | [FIVE](#five) |
+| 74  | STEPS            | [STEPS](#steps) |
+| 75  | PRISM            | [PRISM](#prism) |
+| 76  | TRIP            | [TRIP](#trip ) |
+| 77  | SMARTER            | [SMARTER](#smarter) |
+| 78  | LIGHT            | [LIGHT](#light) |
+| 79  | PROFIT            | [PROFIT](#profit) |
+| 80  | CAPTURE            | [CAPTURE](#capture) |
+| 81  | SCOPE            | [SCOPE](#scope) |
+| 82  | FOCUS            | [FOCUS](#focus) |
+| 83  | FLUID            | [FLUID](#fluid) |
+| 84  | SPARKLE            | [SPARKLE](#sparkle) |
+| 85  | CAPTIVATE            | [CAPTIVATE](#captivate) |
+| 86  | RIVER            | [RIVER](#river) |
+| 87  | ACTIVE            | [ACTIVE](#active) |
+| 88  | PUZZLE            | [PUZZLE](#puzzle) |
+| 89  | ACTION            | [ACTION](#action) |
+| 90  | PREPARE            | [PREPARE](#prepare) |
+| 91  | ENGAGE            | [ENGAGE](#engage) |
+| 92  | SPICE            | [SPICE](#spice) |
+| 93  | BRAIN            | [BRAIN](#brain) |
+| 94  | PROCEED            | [PROCEED](#proceed) |
+| 95  | FACTS            | [FACTS](#facts) |
+| 96  | CREATE            | [CREATE](#create) |
+| 97  | ASK            | [ASK](#ask) |
+| 98  | DIVERT            | [DIVERT](#divert) |
+| 99  | SMOOTH            | [SMOOTH](#smooth) |
+| 100  | SUCCESS            | [SUCCESS](#success) |
+| 101  | PARADIGM            | [PARADIGM](#parsdigm) |
+| 102  | INNOVATE            | [INNOVATE](#innovate) |
+| 103  | CONNECT            | [CONNECT](#connect) |
 
 
 
