@@ -41,7 +41,7 @@ Over 100 powerful ai prompt framework designed to structure and enhance your con
 | 30  | 5C            | [5C](#5c) |
 | 31  | FMEA            | [FMEA](#fmea) |
 | 32  | OODA           | [OODA](#ooda) |
-| 33  | 3 R's            | [3 R's](#3 R's) |
+| 33  | 3 R's            | [3 R's](#3Rs) |
 | 34  | AIDA            | [AIDA](#aida) |
 | 35  | STP            | [STP](#stp) |
 | 36  | RACE            | [RACE](#race) |
